@@ -10,3 +10,4 @@ How to make a review:
 
 5) be very polite and think about it as a conversation with the authors.  
 
+6) Trust your knowledge

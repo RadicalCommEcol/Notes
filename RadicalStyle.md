@@ -1,6 +1,7 @@
 # Radical Style
-Remember to check readbility and color-blindness compatibility!
-### 3 colors:
+Evryone has it's own style. Here are some resources that we have used sueccefully in the past, and can be useful in the future.
+
+### 3 colors that play well toguether:
 - <span style="color: #008000;">Office green</span>
     - hex: #008000
     - rgb: [0, 128, 0]
@@ -16,11 +17,10 @@ And alternative to dark goldenrod:
     - hex: #b8860b
     - rgb: [230,	104,	38]
 
-
-
 ### More colors:
 The `RColorBrewer` package offers several color palette for R. For Diverging palettes we can use `Set2`.
 
+But remember to check readbility and color-blindness compatibility!
 ```
 install.packages("RColorBrewer") # CRAN version
 
@@ -28,7 +28,6 @@ library(RColorBrewer)
 
 colors <- RColorBrewer::brewer.pal(n = my_n, name = "Set2") 
 ````
-
 
 ### Icons:
 Better use them in vectorial format.
@@ -38,6 +37,7 @@ Better use them in vectorial format.
 - [Parapholis incurva]()
 #### Pollinators:
 - [Bombus terrestris](https://www.phylopic.org/images/750eeb4f-7ca5-49ff-a814-27a12d0cb13a/bombus-terrestris)
+- [bee icons](https://bartomeuslab.com/?s=icons&submit=Search)
 
 
 ### Interesting links:
